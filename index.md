@@ -1,3 +1,6 @@
+## Spencer Rankin 8.27.2020
+## CS 3744 Setup GitPages
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/srankin99/srankin99.cs3744.setup.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
